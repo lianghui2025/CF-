@@ -1,0 +1,50 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+192.9.137.193,8443,true,SJC,North America,San Jose,167 ms,7304 kB/s
+129.146.46.164,443,true,LAX,North America,Los Angeles,266 ms,6629 kB/s
+141.148.227.119,443,true,FRA,Europe,Frankfurt,271 ms,5720 kB/s
+152.70.155.147,8443,true,LAX,North America,Los Angeles,267 ms,4375 kB/s
+152.70.155.147,2083,true,LAX,North America,Los Angeles,263 ms,4281 kB/s
+217.142.243.226,443,true,KIX,Asia Pacific,Osaka,206 ms,4234 kB/s
+141.147.85.167,8443,true,LHR,Europe,London,257 ms,4190 kB/s
+129.151.198.3,2053,true,ARN,Europe,Stockholm,260 ms,4182 kB/s
+150.136.87.192,443,true,IAD,North America,Ashburn,234 ms,3963 kB/s
+141.148.229.106,443,true,AMS,Europe,Amsterdam,303 ms,3797 kB/s
+152.70.155.147,2096,true,LAX,North America,Los Angeles,263 ms,3783 kB/s
+129.151.198.3,8443,true,ARN,Europe,Stockholm,250 ms,3644 kB/s
+168.138.50.249,443,true,KIX,Asia Pacific,Osaka,213 ms,3599 kB/s
+141.145.205.115,8443,true,CDG,Europe,Paris,266 ms,3583 kB/s
+152.70.59.90,8443,true,AMS,Europe,Amsterdam,291 ms,3452 kB/s
+168.138.46.67,443,true,KIX,Asia Pacific,Osaka,200 ms,3440 kB/s
+158.179.207.182,2053,true,ARN,Europe,Stockholm,323 ms,3285 kB/s
+152.70.155.147,2053,true,LAX,North America,Los Angeles,264 ms,3279 kB/s
+89.168.83.143,8443,true,FRA,Europe,Frankfurt,258 ms,3208 kB/s
+158.179.206.143,443,true,ARN,Europe,Stockholm,265 ms,3094 kB/s
+152.70.155.147,443,true,LAX,North America,Los Angeles,266 ms,3019 kB/s
+144.22.252.124,443,true,GRU,South America,São Paulo,379 ms,2696 kB/s
+158.101.199.249,8443,true,AMS,Europe,Amsterdam,252 ms,2664 kB/s
+152.70.155.147,2087,true,LAX,North America,Los Angeles,257 ms,2613 kB/s
+140.238.158.238,8080,true,YYZ,North America,Toronto,235 ms,2451 kB/s
+84.235.169.234,443,true,AMS,Europe,Amsterdam,316 ms,2406 kB/s
+129.213.136.180,443,true,IAD,North America,Ashburn,253 ms,2300 kB/s
+89.168.68.57,2053,true,FRA,Europe,Frankfurt,296 ms,2297 kB/s
+158.180.49.11,8443,true,FRA,Europe,Frankfurt,296 ms,2261 kB/s
+150.230.20.156,2053,true,AMS,Europe,Amsterdam,249 ms,2178 kB/s
+158.178.206.197,2053,true,CDG,Europe,Paris,254 ms,2060 kB/s
+192.9.250.241,443,true,SJC,North America,San Jose,177 ms,2018 kB/s
+140.238.158.238,443,true,YYZ,North America,Toronto,228 ms,1644 kB/s
+158.180.49.11,2053,true,FRA,Europe,Frankfurt,301 ms,1558 kB/s
+168.138.141.235,2053,true,GRU,South America,São Paulo,364 ms,1281 kB/s
+132.226.163.224,8443,true,GRU,South America,São Paulo,361 ms,1059 kB/s
+89.168.43.31,2053,true,CDG,Europe,Paris,263 ms,713 kB/s
+129.159.84.71,443,true,IAD,North America,Ashburn,244 ms,694 kB/s
+89.168.43.31,8443,true,CDG,Europe,Paris,262 ms,605 kB/s
+158.179.207.182,8443,true,ARN,Europe,Stockholm,322 ms,585 kB/s
+150.230.20.156,8443,true,AMS,Europe,Amsterdam,267 ms,473 kB/s
+146.235.59.153,2053,true,GRU,South America,São Paulo,372 ms,304 kB/s
+89.168.68.57,8443,true,FRA,Europe,Frankfurt,294 ms,252 kB/s
+146.235.59.153,8443,true,GRU,South America,São Paulo,373 ms,80 kB/s
+141.147.47.32,8443,true,FRA,Europe,Frankfurt,302 ms,14 kB/s
+64.110.104.30,443,true,KIX,Asia Pacific,Osaka,216 ms,0 kB/s
+140.238.50.112,443,true,NRT,Asia Pacific,Tokyo,140 ms,0 kB/s
+132.145.127.203,2053,true,NRT,Asia Pacific,Tokyo,143 ms,0 kB/s
+158.101.24.17,443,true,LAX,North America,Los Angeles,243 ms,0 kB/s
